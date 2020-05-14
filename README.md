@@ -12,3 +12,6 @@ In modified dataset certain columns have been removed: 'meastimestamp','meas_x',
 Bluetooth measurements have been removed as well.
 
 AP names have been replaced with generic (ap1, ap2, ap3, ...) names.
+## Features dataset
+features.csv is a dataset that will be used for machine learning.
+We created generic fetures from original dataset.
